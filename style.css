@@ -13,8 +13,12 @@ h1{
     font-family: cursive;
 }
 
-h2, h3, h4, h6 {
+h2, h4, h6 {
     font-family: Risque, cursive;
+}
+h3{
+    font-family: Risque, cursive;
+    font-size:30px;
 }
 
 /* Navigation Bar */
@@ -63,7 +67,8 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    color: gold;
+    text-shadow: gray;
   }
 
 button a {
